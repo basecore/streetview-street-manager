@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# App-Ausgaben
+downloads/
+state/
+logs/
+
+# Betriebssystem
+.DS_Store
+Thumbs.db
+*.swp
